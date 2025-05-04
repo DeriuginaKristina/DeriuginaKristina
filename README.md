@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DeriuginaKristina
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Java backend
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ...
 
